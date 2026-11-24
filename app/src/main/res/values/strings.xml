@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">เตือนภัย AI</string>
+    <string name="nav_monitor">เฝ้าระวัง</string>
+    <string name="nav_map">แผนที่</string>
+    <string name="nav_ai_analyzer">สแกน AI</string>
+    <string name="nav_preparedness">รับมือ</string>
+    <string name="nav_analytics">สถิติ</string>
+    <string name="cd_hero_radar">เรดาร์เฝ้าระวังภัยพิบัติ</string>
+    <string name="cd_ai_banner">ระบบสแกนวิเคราะห์ความเสี่ยงด้วย AI</string>
+    <string name="cd_kit_banner">ชุดอุปกรณ์ฉุกเฉินสำหรับเตรียมพร้อมรับมือภัยพิบัติ</string>
+    <string name="action_refresh">รีเฟรชข้อมูล</string>
+    <string name="action_pick_photo">เลือกรูปภาพภัยพิบัติ</string>
+    <string name="action_analyze_photo">วิเคราะห์ความเสี่ยงด้วย AI</string>
+    <string name="action_use_location">ใช้ตำแหน่งปัจจุบัน</string>
+    <string name="cd_zoom_in">ขยายแผนที่</string>
+    <string name="cd_zoom_out">ย่อแผนที่</string>
+    <string name="cd_center_thailand">จัดกึ่งกลางประเทศไทย</string>
+    <string name="cd_center_global">มุมมองแผนที่โลก</string>
+    <string name="action_open_camera">ถ่ายภาพสดด้วยกล้อง</string>
+    <string name="cd_capture_photo">ถ่ายภาพสถานการณ์ภัยพิบัติ</string>
+    <string name="cd_switch_camera">สลับกล้องหน้าหรือกล้องหลัง</string>
+    <string name="cd_toggle_flash">สลับโหมดแฟลช</string>
+    <string name="cd_navigate_back">ย้อนกลับ</string>
+    <string name="fcm_default_channel_id">disaster_critical_alerts</string>
+    <string name="fcm_channel_critical_name">แจ้งเตือนภัยพิบัติเร่งด่วนในพื้นที่</string>
+    <string name="fcm_channel_critical_desc">การแจ้งเตือนแบบเรียลไทม์เมื่อพบภัยพิบัติใกล้ตำแหน่งของคุณ</string>
+    <string name="fcm_channel_advisory_name">ประกาศเฝ้าระวังภัยพิบัติ</string>
+    <string name="fcm_channel_advisory_desc">ข่าวสารและคำแนะนำการเตรียมพร้อมรับมือภัยพิบัติ</string>
+    <string name="cd_push_alerts">ศูนย์แจ้งเตือนภัยพิบัติแบบเรียลไทม์</string>
+</resources>

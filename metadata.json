@@ -1,0 +1,6 @@
+{
+  "name": "เตือนภัย AI",
+  "description": "แอปวิเคราะห์ภัยพิบัติแบบเรียลไทม์พร้อม AI ประเมินความเสี่ยงจากภาพถ่าย ข้อมูลแผ่นดินไหว สภาพอากาศ และแผนรับมือฉุกเฉิน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
